@@ -32,5 +32,7 @@ Basic Fundamentals
 - For example, there are some libraries of mathematics that can let developers just call the function without redoing the implementation of how an           algorithm works. <br><br>
 - A library will usually focus on a single piece of functionality that you access using an API.<br><br> 
 - You call a library function, it executes some code and then the control is returned to your code. </p></h5>
+
+<h4>OS Study Content : https://www.scaler.com/topics/operating-system/process-synchronization-in-os/</h4>
  
 
