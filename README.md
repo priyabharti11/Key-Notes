@@ -33,6 +33,6 @@ Basic Fundamentals
 - A library will usually focus on a single piece of functionality that you access using an API.<br><br> 
 - You call a library function, it executes some code and then the control is returned to your code. </p></h5>
 
-<h3>OS Study Content : https://www.scaler.com/topics/operating-system/process-synchronization-in-os/</h3>
+<h3>(2) OS Study Content : https://www.scaler.com/topics/operating-system/process-synchronization-in-os/</h3>
  
 
