@@ -42,6 +42,8 @@ Basic Fundamentals
   control to the Master Boot Record (MBR) where the boot loader resides. 
 - Most new computers are shipped with boot loaders for some version of Microsoft Windows or the Mac OS. 
 </p>
+</h5>
+<h5>
 <p>
 <h4>Linux Bottloader</h4>
 
