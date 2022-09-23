@@ -37,10 +37,10 @@ Basic Fundamentals
  
 <h3> What is Bootloader ?</h3>
 <h5> <p>
-- A boot loader, also called a boot manager, is a small program that places the operating system (OS) of a computer into memory.
-- When a computer is powered-up or restarted, the basic input/output system (BIOS) performs some initial tests, and then transfers 
-  control to the Master Boot Record (MBR) where the boot loader resides. 
-- Most new computers are shipped with boot loaders for some version of Microsoft Windows or the Mac OS. 
+- A boot loader, also called a boot manager, is a small program that places the operating system (OS) of a computer into memory.<br><br>
+- When a computer is powered-up or restarted, the basic input/output system (BIOS) performs some initial tests, and then transfers <br><br>
+  control to the Master Boot Record (MBR) where the boot loader resides. <br><br>
+- Most new computers are shipped with boot loaders for some version of Microsoft Windows or the Mac OS. <br><br>
 </p>
 </h5>
 <h5>
