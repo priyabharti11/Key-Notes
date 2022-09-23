@@ -35,4 +35,25 @@ Basic Fundamentals
 
 <h3>(2) OS Study Content : https://www.scaler.com/topics/operating-system/process-synchronization-in-os/</h3>
  
+<h3> What is Bootloader ?</h3>
+<h5> <p>
+- A boot loader, also called a boot manager, is a small program that places the operating system (OS) of a computer into memory.
+- When a computer is powered-up or restarted, the basic input/output system (BIOS) performs some initial tests, and then transfers 
+  control to the Master Boot Record (MBR) where the boot loader resides. 
+- Most new computers are shipped with boot loaders for some version of Microsoft Windows or the Mac OS. 
+</p>
+<p>
+<h4>Linux Bottloader</h4>
 
+- If a computer is to be used with Linux, a special boot loader must be installed.
+- For Linux, the two most common boot loaders are known as LILO (LInux LOader) and LOADLIN (LOAD LINux). 
+- An alternative boot loader, called GRUB (GRand Unified Bootloader), is used with Red Hat Linux. 
+- LILO is the most popular boot loader among computer users that employ Linux as the main, or only, operating system. 
+- The primary advantage of LILO is the fact that it allows for fast boot-up. 
+- LOADLIN is preferred by some users whose computers have multiple operating systems, 
+  and who spend relatively little time in Linux. 
+- LOADLIN is sometimes used as a backup boot loader for Linux in case LILO fails. 
+- GRUB is preferred by many users of Red Hat Linux, because it is the default boot loader
+  for that distribution.
+</p>
+</h5>
