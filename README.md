@@ -34,6 +34,8 @@ Basic Fundamentals
 - You call a library function, it executes some code and then the control is returned to your code. </p></h5>
 
 <h3>(2) OS Study Content : https://www.scaler.com/topics/operating-system/process-synchronization-in-os/</h3>
+<h3>(3) SQL Cross join example Study Content : https://www.sqlshack.com/sql-cross-join-with-examples/</h3>
+<h3>(4)SQL Join : https://www.interviewbit.com/sql-joins-interview-questions/</h3>
  
 <h3> What is Bootloader ?</h3>
 <h5> <p>
