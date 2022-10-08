@@ -65,3 +65,6 @@ Basic Fundamentals
 <h3> Java Exception Handeling Questions : https://www.digitalocean.com/community/tutorials/java-exception-interview-questions-and-answers</h3>
 <h3>Try, Catch, Throw, Throws, Finally Block : https://www.geeksforgeeks.org/try-catch-throw-and-throws-in-java/</h3>
 
+<p>
+- An unchecked exception (also known as an runtime exception) in Java is something that has gone wrong with the program and is unrecoverable. Just because this is not a compile time exception, meaning you do not need to handle it, that does not mean you don't need to be concerned about it.</p>
+
