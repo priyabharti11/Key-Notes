@@ -68,3 +68,10 @@ Basic Fundamentals
 <p>
 - An unchecked exception (also known as an runtime exception) in Java is something that has gone wrong with the program and is unrecoverable. Just because this is not a compile time exception, meaning you do not need to handle it, that does not mean you don't need to be concerned about it.</p>
 
+    <h3>
+    Command :</h3>
+    
+      sudo systemctl enable ssh
+   <br>
+   
+
