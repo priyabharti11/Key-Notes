@@ -86,4 +86,22 @@ Basic Fundamentals
       }
    <br>
    
+   
+  <h3>
+ Array Out Of Bound Exception :</h3>
+ - This type of exception occurs when you try to access an array with an invalid index value. The value you are providing is either negative or beyond the length of the array.
+
+    
+       // Program to demonstrate the ArrayIndexOutOfBoundException
+       class sample_ArrayIndexOutOfBound {
+        public static void main(String args[]) {
+        try {
+            int b[] = new int[6];
+            b[8] = 2; // we are trying to access 9th element in an array of size 7
+        } catch(ArrayIndexOutOfBoundsException e) {
+            System.out.println ("The array index is out of bound");
+        }
+       }
+       }
+   <br>
 
