@@ -88,7 +88,7 @@ Basic Fundamentals
    
    
   <h3>
- Array Out Of Bound Exception :</h3>
+  Array Out Of Bound Exception :</h3>
  - This type of exception occurs when you try to access an array with an invalid index value. The value you are providing is either negative or beyond the length of the array.
 
     
