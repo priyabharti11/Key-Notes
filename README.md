@@ -29,7 +29,7 @@ Basic Fundamentals
 - A library is just a collection of class definitions. <br><br>
 - The reason is it simply code reuse, in other words, gets the code that has already been written by other developers.<br><br>
 - The classes and methods normally define specific operations in a domain-specific area. <br><br>
-- For example, there are some libraries of mathematics that can let developers just call the function without redoing the implementation of how an           algorithm works. <br><br>
+- For example,there are some libraries of mathematics that can let developers just call the function without redoing the implementation of how an           algorithm works. <br><br>
 - A library will usually focus on a single piece of functionality that you access using an API.<br><br> 
 - You call a library function, it executes some code and then the control is returned to your code. </p></h5>
 
