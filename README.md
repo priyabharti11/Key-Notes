@@ -68,10 +68,22 @@ Basic Fundamentals
 <p>
 - An unchecked exception (also known as an runtime exception) in Java is something that has gone wrong with the program and is unrecoverable. Just because this is not a compile time exception, meaning you do not need to handle it, that does not mean you don't need to be concerned about it.</p>
 
-    <h3>
-    Command :</h3>
+ <h3>
+ Null Pointer exception:</h3>
+ 
+- This type of exception occurs when you try to access an object with the help of a reference variable whose current value is null or  empty.
     
-      sudo systemctl enable ssh
+      // Program to demonstrate the NullPointerException
+      class SampleNullPointer {
+        public static void main(String args[]) {
+           try {
+              String a1 = null; // null value
+              System.out.println(a1.charAt(0));
+           } catch(NullPointerException e) {
+            System.out.println("NullPointerException is found in the program.");
+        }
+      }
+      }
    <br>
    
 
